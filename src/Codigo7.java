@@ -1,3 +1,8 @@
+
+// El programa tiene una colección de capitales de países, le pregunta al usuario por un país y 
+// éste regresa su capital, si el usuario introduce una opción que no está, el programa le pide su capital
+// y la guarda, sigue preguntando hasta que se introduce "salir".
+
 import java.util.HashMap; // Se agrega la clase HashMap
 import java.util.Scanner; // Se agrega la clase Scanner
 
